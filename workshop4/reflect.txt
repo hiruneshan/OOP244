@@ -1,0 +1,38 @@
+/***********************************************************************
+//
+// OOP244 Workshop 4 Reflection:
+//
+// Name - Hiru Neshan Wijemanne
+// Seneca Email - hnwijemanne@myseneca.ca
+// Student ID - 135257236
+// Date of completion - 2024/10/06
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+
+Constructors;
+
+Constructors are unique member functions within a class that are invoked automatically when an object of that class is instantiated. Their purpose is to initialize the class's data members, ensuring the object begins in a valid state by assigning initial values.
+
+Constructors with different arguments; 
+
+Constructor with different arguments is called constructor overloading allows you to create multiple constructors in a class, each with a different number of parameters. This allows objects to be initialized in various ways based on the arguments provided when they are created.
+
+Destructor;
+A special member function of a class that is automatically called when an object goes out of scope or is explicitly deleted. Its primary purpose is to release resources that the object may have acquired during its lifetime. For example, dynamically allocated data will be deallocated from a destructor. 
+
+A memory leak happens when a program allocates memory but doesn't free it, wasting memory that can't be used again. If a destructor is missing or doesn't release resources, the program won't clean up the memory used by an object when it's destroyed, which will lead to memory leaks.
+
+Referring to the current object;
+The keyword this provides the address of the current object, It points to the memory location where all the instance variables of that object are stored. keyword "*this" refers to the current object and all its instance variables.
+We use the this keyword within a member function to access the instance variables that the function is currently using through its implicit parameters.
+
+
+
+
+
+
+
+
+w

@@ -1,0 +1,30 @@
+/***********************************************************************
+//
+// OOP244 Workshop 10 Reflection:
+//
+// Name - Hiru Neshan Wijemanne
+// Seneca Email - hnwijemanne@myseneca.ca
+// Student ID - 135257236
+// Date of completion - 2024/12/08
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Function Template Definition. 
+A function template is a way to write a single function that works with different data types. Instead of using a specific type (like int or float), a placeholder is used. When you call the function, the compiler automatically creates the right version of the function for the type you use.
+Eg; 
+template<typename T [, ...]>
+
+
+Templates let you create flexible and reusable code to manage arrays of any data type or object. They allow dynamic memory allocation and operations like resizing, adding, or removing elements without rewriting the code for each type.
+
+Complete header file
+Safeguards in a header file are mechanisms used to prevent issues such as multiple inclusions of the same header file during compilation. Multiple inclusions can lead to redefinition errors and conflicts, so safeguards ensure that the compiler includes a header file only once.
+eg;
+
+#ifndef HEADER_FILE_NAME_H
+#define HEADER_FILE_NAME_H
+
+
+#endif
+

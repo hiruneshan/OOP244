@@ -1,0 +1,32 @@
+/***********************************************************************
+// OOP244 Workshop 7 reflection
+//
+// Version 1.0
+// Date	 2024/11/15
+//
+// -----------------------------------------------------------
+// Name                   Date            
+// Hiru Neshan Wijemanne  2024/11/15
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Derived and Base Classes:
+In an "is-a-kind-of" relationship, the child is the derived class, and the parent is the base class. For example, a Hybrid Course is a derived class of the Course base class. The derived class gets everything from the base class.
+
+Definition of a Derived Class
+
+class Derived : access Base {
+
+    // ...
+
+};
+
+
+Override a base class member function with a derived class member function:
+When a derived class provides its own version of a function already defined in the base class, it’s called overriding. This allows the derived class to change the function's behavior while keeping the same name and signature.
+
+Access a shadowed (overridden) member function defined in a base class:
+If a function in the base class is overridden in the derived class, it is "shadowed." You can  call the base class version using base class::function.
+
+Implement and utilize custom input/output operators with derived classes:
+You can overload input (>>) and output (<<) operators to customize how objects of derived classes are printed or read, managing both base and derived class data in a preferred way.

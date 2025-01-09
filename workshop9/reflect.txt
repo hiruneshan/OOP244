@@ -1,0 +1,27 @@
+/***********************************************************************
+// OOP244 Workshop 9 reflection
+//
+// Version 1.0
+// Date	 2024/11/24
+//
+// -----------------------------------------------------------
+// Name                   Date            
+// Hiru Neshan Wijemanne  2024/11/24
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Constructor in a derived class.
+A constructor in a derived class sets up both the base class and derived class parts of an object. It can also allocate memory if needed. The constructor makes sure the object is ready to use, and it can take values as input to initialize the object properly.
+
+
+Explicitly calling the copy constructor of the base class.
+When creating a copy constructor in a derived class, you need to ensure that the base class's portion of the object is also copied correctly. This is done by explicitly calling the base class copy constructor in the initialization list of the derived class's copy constructor. 
+eg;
+Derived(const Derived& other) : Base(other)
+
+
+Copy assignment operator in a derived class.
+When implementing the copy assignment operator in a derived class, you must call the base class's operator to handle its resources properly. This ensures that the base class's dynamic memory is copied correctly, avoiding shallow copies and memory leaks.
+
+Destructor in a derived class with DMA. 
+In a derived class, the destructor cleans up resources allocated by both the derived and base classes. If the derived class uses dynamic memory, its destructor frees that memory. The base class's destructor is automatically called when the derived object is destroyed to clean up the base class's resources.

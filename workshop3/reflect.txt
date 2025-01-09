@@ -1,0 +1,26 @@
+/***********************************************************************
+//
+// OOP244 Workshop 3 Reflection:
+//
+// Name - Hiru Neshan Wijemanne
+// Seneca Email - hnwijemanne@myseneca.ca
+// Student ID - 135257236
+// Date of completion - 2024/10/04
+//
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Class; 
+A class groups data and functions into a single unit. It combines both the data and the actions that can be performed on it, helping to hide details and make code more organized.
+
+Privatizing Data;
+Privatizing data in a class means making data members private, so they can't be accessed directly from outside the class(clients). Only the class's own functions can change or use the data. This helps protect it from unwanted changes and keeps it safe.
+
+instantiating an object of class type;
+This refers to creating an instance or an object of that class in memory. For example, if there is a class called "Student", we can create and instace or an object of this class called harry;. This will be an instantiation of an object called "harry" of the class "Student".
+
+Querry;
+Querry or a getter function gets information about an object's state without changing it. They ask the object for its data. 
+
+Setter or functions that change the state of an object;
+A setter function is a member function that lets you change the value of a private data member in a class. Setters help control how an object's attributes are updated, allowing for checks or validation before the data is changed.

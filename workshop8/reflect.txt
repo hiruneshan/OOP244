@@ -1,0 +1,29 @@
+/***********************************************************************
+// OOP244 Workshop 8 reflection
+//
+// Version 1.0
+// Date	 2024/11/23
+//
+// -----------------------------------------------------------
+// Name                   Date            
+// Hiru Neshan Wijemanne  2024/11/23
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+Polymorphism and virtual functions 
+Polymorphism lets an operation be chosen based on an object's type. In C++, it’s implemented using virtual functions, allowing an object to change types within the same hierarchy. Objects have a static type (declared type) and a dynamic type (actual type at runtime). The chapter explains how C++ handles function binding and polymorphic objects.
+
+A pure virtual Function 
+Pure virtual function has no implementation and must be overridden in derived classes. It's declared by assigning 0 in the base class. A class with pure virtual functions is called an abstract class and can't be instantiated.
+for example;
+class Shape {
+public:
+    virtual void draw() = 0;  // Pure virtual function
+};
+
+Abstract Base Class 
+A class has at least one pure virtual function and cannot be created directly. It provides a common interface that derived classes must follow by implementing the pure virtual functions.
+
+Difference between abstract base classes and concrete classes
+An abstract base class has at least one pure virtual function and cannot be created directly. It provides a blueprint for other classes to follow.
+A concrete class has complete functions and can be created as an object. It doesn't have pure virtual functions.

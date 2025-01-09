@@ -1,0 +1,43 @@
+/***********************************************************************
+
+Name - Hiru Neshan Wijemanne 
+Student ID - 135257236
+Email - hnwijemanne@myseneca.ca
+Date - 9/21/2024
+
+***********************************************************************/
+
+Function Overloading.
+ 
+-Function overloading is when a function can have same names but different parameters. This could be considered as an example for polymorphism. 
+-For example ; add(int a, double b) 
+              add(double a, int b)
+
+Dynamically Allocated Arrays 
+
+-Dynamic Memory – the memory that a program requests from the operating system during its execution.
+-The memory should be allocated and deallocated at run time. 
+-The memory size will change based on the requirements 
+-DMA is more efficient than static memory since we can deallocate the memory used and reuse the memory at run time. 
+
+
+How DMA Is used in a program; 
+
+The address of the allocated memory region is stored in the static memory 
+
+Eg – int* Student = nullptr; // storing the address of the DMA in the static memory.
+      Cin >> n;
+      Student = new int [n];// dynamically allocating memory.
+ 
+      Delete [] Student; // deallocating the memory.
+
+
+Dynamically Allocating Compound types.
+
+-Compound types refer to complex data structures including structures and classed. 
+-Dynamically Allocating Compound refer to creating an instance of data structures at runtime. 
+
+
+Pass variables by reference.
+
+Pass-by-reference is more efficient than pass-by-value because it does not make a copy of the argument. Instead, it uses the original argument directly. When the function changes the parameter, it changes to the original value.

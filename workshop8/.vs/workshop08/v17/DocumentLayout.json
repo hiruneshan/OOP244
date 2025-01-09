@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:LblShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:LblShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\ws8data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{221901F8-ECE5-44B4-931A-AB49817AB6B2}|workshop08.vcxproj|solutionrelative:ws8data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ws8data.csv",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\ws8data.csv",
+              "RelativeDocumentMoniker": "ws8data.csv",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\ws8data.csv",
+              "RelativeToolTip": "ws8data.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-19T00:15:22.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.cpp",
+              "RelativeDocumentMoniker": "Shape.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.cpp",
+              "RelativeToolTip": "Shape.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:19:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Line.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.cpp",
+              "RelativeDocumentMoniker": "Line.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.cpp",
+              "RelativeToolTip": "Line.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:20:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Rectangle.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.cpp",
+              "RelativeToolTip": "Rectangle.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:19:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T01:20:17.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LblShape.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.cpp",
+              "RelativeDocumentMoniker": "LblShape.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.cpp",
+              "RelativeToolTip": "LblShape.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:20:04.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Line.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.h",
+              "RelativeDocumentMoniker": "Line.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Line.h",
+              "RelativeToolTip": "Line.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T01:20:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LblShape.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.h",
+              "RelativeDocumentMoniker": "LblShape.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\LblShape.h",
+              "RelativeToolTip": "LblShape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T01:20:15.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.h",
+              "RelativeDocumentMoniker": "Shape.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Shape.h",
+              "RelativeToolTip": "Shape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T01:20:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:19:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T01:20:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\hiruw\\Seneca\\Seneca CPA\\Semester 2\\OOP\\workshop08\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T01:20:02.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

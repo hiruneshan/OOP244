@@ -1,0 +1,63 @@
+/***********************************************************************
+// OOP244 Workshop 5 reflection
+//
+// Version 1.0
+// Date	2024/10/13
+//
+// -----------------------------------------------------------
+// Name                   Date            
+// Hiru Neshan Wijemanne  2024/10/13
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+
+Binary Member Operators.
+
+- A binary member operator takes two operands. The left operand is the current object, and the right operand is passed as a parameter to the operator function.
+For example, this will be the prototype for a binary member operator;
+
+- Student& operator+=(float g);
+The above is an example for overloading the += operator for a float as the right operand.
+
+
+Unary Member Operator. 
+- A unary member operator involves one operand and one operator. The left operand is the current object, and the operator does not take any parameters.
+
+- We can overload the prefix increment/decrement operators to modify the current object and return a reference to its updated state.
+for example, 
+Student& operator++(); the following example will increment student grade by one mark
+
+- We overload the postfix operators to modify the current object after returning its original value.
+for example; 
+Student Student::operator++(int) 
+{
+    Student s = *this;  // save the original
+    ++(*this);          // call the pre-fix operator
+    return s;           // return the original
+}
+
+The above example will create an instance called s which will have the value of the current object. The current object will be incremented by calling the pre-fix operator and will return the original value (object s).
+
+
+
+Type Conversion Operators
+This operators allow implicit conversions to other types, including basic types.
+
+1. Bool Operator 
+A bool operator is used to convert an object of a class to a boolean (bool) value. This operator allows an object to be evaluated in contexts where a boolean expression is required, such as in conditional statements (if and while)
+
+2. Cast Operator
+It is used to explicitly convert one data type to another. While type conversion operators generally allow implicit or explicit conversions between types, cast operators provide a way to explicitly control conversions in different forms. 
+
+
+
+Helper functions
+- Modular functions that assist main functions by performing specific tasks, enhancing code readability, reusability, and maintainability. They can be private members of a class or standalone functions.
+
+Helper Operators 
+- Helper operators are global functions that let you use operators without changing the original values. They include comparison and arithmetic operators, making it easier to read and write code with custom types.
+
+
+
+
+
