@@ -1,0 +1,15 @@
+﻿  Utils.cpp
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(82,13): error C2059: syntax error: 'else'
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(82,42): error C2143: syntax error: missing ';' before '{'
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(85,13): error C2181: illegal else without matching if
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(91,11): error C2059: syntax error: 'while'
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(93,9): error C2059: syntax error: 'return'
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(97,9): error C2653: 'Utils': is not a class or namespace name
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(102,19): error C2660: 'getInt': function does not take 0 arguments
+  C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(97,16):
+  see declaration of 'getInt'
+  C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(102,19):
+  while trying to match the argument list '()'
+  
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(117,1): error C2059: syntax error: '}'
+C:\Users\hiruw\Seneca\Seneca CPA\Semester 2\OOP\Milestone 2\Utils.cpp(117,1): error C2143: syntax error: missing ';' before '}'
